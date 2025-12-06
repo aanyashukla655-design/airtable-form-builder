@@ -222,3 +222,8 @@ Everything written here is in my own words and the way I understood the system.
 If you give me 1–2 more days, I can implement the full MERN build exactly as required.
 
 Thank you for reviewing my work.
+## 📎 Important Links
+
+**🌐 Portfolio:** [Link](your-portfolio-url-here)  
+**💻 GitHub Repository:** [Link](https://github.com/aanyashukla655-design/airtable-form-builder)  
+**🔗 LinkedIn:** [Link](your-linkedin-url-here)
