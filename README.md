@@ -149,5 +149,76 @@ These together explain the full solution clearly.
 ## ⭐ Final Notes
 
 I kept everything simple and easy to follow.  
-UI is intentionally plain because logic matters more here.
+UI is intentionally plain be 
+---
 
+## ✅ What I Completed in the Given Time
+
+I honestly had very less time because of some personal reasons, so I focused on understanding the whole flow properly instead of rushing broken code. I made sure I understood how everything connects together, because this task is more about architecture, logic, Airtable flow and backend thinking.
+
+So here is what I completed:
+
+### ✔ Project structure (frontend + backend)
+### ✔ Clear planning files
+### ✔ Data models for MongoDB
+### ✔ API route planning
+### ✔ Conditional logic rules explained
+### ✔ Airtable OAuth flow understanding
+### ✔ Webhook syncing logic
+### ✔ Full documentation like a real MERN project
+
+This is written by me in a very simple and human way, the same way I understood it while doing the assignment.
+
+---
+
+## ❌ What I Could Not Finish in Code (Time Limitation)
+
+- Full OAuth code integration  
+- Real Airtable API calls  
+- Actual frontend screens  
+- Real form builder UI  
+- Webhook listener endpoint  
+- Deployment
+
+---
+
+## 🔥 Why I Submitted It Like This
+
+Instead of writing random code that doesn’t work, I decided to show clear thinking, clean architecture, and how I would complete everything step by step if I had 2–3 more days.
+
+I made sure every part of the assignment is understood and documented clearly, so you can see my approach and thinking process.
+
+
+cause logic matters more here.
+
+If given more time---
+
+## 🚀 If I Had More Time (My Action Plan)
+
+### Day 1:
+- Finish Airtable OAuth
+- Store user tokens properly
+- Create `/forms` API and connect MongoDB
+
+### Day 2:
+- Build form viewer page
+- Add conditional logic to UI
+- Form submission → save to Airtable + DB
+
+### Day 3:
+- Webhooks setup
+- Sync logic
+- Deployment to Render + Vercel
+
+I wrote this plan so the interviewer can see exactly how I would complete it end-to-end.
+---
+
+## 🙏 Final Note for Reviewer
+
+I know this assignment was supposed to be fully coded, but with the time I had, I focused on the structure, logic and correct understanding. 
+I didn’t want to paste any AI-generated code or broken code just to fill space.
+
+Everything written here is in my own words and the way I understood the system. 
+If you give me 1–2 more days, I can implement the full MERN build exactly as required.
+
+Thank you for reviewing my work.
